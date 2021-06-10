@@ -23,5 +23,4 @@
 
 
 <h3>📱 Deployed Projects 🖥️</h3>
-Jobs Radar:
-https://play.google.com/store/apps/details?id=com.jobradar&hl=pt_BR&gl=US
+- Jobs Radar: https://play.google.com/store/apps/details?id=com.jobradar&hl=pt_BR&gl=US
