@@ -17,6 +17,11 @@
 - 🔧 &nbsp; Visual Studio Code | Git
 - 🖥 &nbsp; Adobe Xd | Figma | Photoshop 
 
+<h3>📞 Contact-me</h3>
+
+- 📳 &nbsp; +55 (14) 98826-6406
+
+
 <h3>📱 Deployed Projects 🖥️</h3>
 Jobs Radar:
 https://play.google.com/store/apps/details?id=com.jobradar&hl=pt_BR&gl=US
