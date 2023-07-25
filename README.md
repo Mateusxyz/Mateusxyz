@@ -34,4 +34,4 @@
 
 <h3> 📄 Resume </h3>
 
-[Curriculo [PT-BR]](https://github.com/Mateusxyz/Mateusxyz/files/12163818/Curriculo.2.pdf)
+- [Curriculo [PT-BR]](https://github.com/Mateusxyz/Mateusxyz/files/12163818/Curriculo.2.pdf)
