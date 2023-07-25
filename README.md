@@ -23,6 +23,7 @@
 
 
 <h3>📱 Deployed Projects 🖥️</h3>
+
 - Solutudo PlayStore: https://play.google.com/store/apps/details?id=br.com.solutudo.app&hl=pt_BR&gl=US<br>
 - Solutudo AppStore: https://apps.apple.com/br/app/solutudo/id534519120<br>
 - Jobs Radar: https://play.google.com/store/apps/details?id=com.jobradar&hl=pt_BR&gl=US<br>
