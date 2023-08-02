@@ -30,7 +30,7 @@
 - Sistema notas fiscais Solutudo.<br>
 - Webmin Webpanel CodrCluster.<br>
 - Website CodrCluster Hosting: https://codrcluster.com.br/<br>
-- Website Intituto Olhos: https://institutoolhosbotucatu.com.br/<br>
+- Website Instituto Olhos: https://institutoolhosbotucatu.com.br/<br>
 
 <h3> 📄 Resume </h3>
 
