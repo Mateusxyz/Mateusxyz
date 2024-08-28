@@ -1,5 +1,5 @@
 <h2> :earth_americas: Olá, I'm Mateus. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-
+Mobile developer @ X-apps.
 <h3> 👨🏻‍💻 About Me </h3>
 
 - I am Brazilian and graduated in systems analysis, seasoned Fullstack Developer with a passion for crafting exceptional digital experiences. With extensive expertise in modern frameworks and technologies, including Next.js, Node.js, and PHP, I thrive on building innovative solutions that push the boundaries of web development.
