@@ -19,7 +19,7 @@ Mobile developer @ X-apps.
 
 <h3>📞 Contact-me</h3>
 
-- 📳 &nbsp; +55 (14) 99158-6954
+- 📳 &nbsp; +55 (14) 98801-1184
 
 
 <h3>📱 Deployed Projects 🖥️</h3>
