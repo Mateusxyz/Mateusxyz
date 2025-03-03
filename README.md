@@ -10,6 +10,11 @@ Mobile developer @ X-apps.
 - ✍️ &nbsp; Watching Anime and trying out latest programming trends as hobbies/side hustles.
 - ☕ &nbsp; A cup of coffee can change everything. 
 
+<h3>Gitlab Contributions chart</h3>
+
+![image](https://github.com/user-attachments/assets/a7e23300-0de8-497b-b08e-7e1a1039cd69)
+
+
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; Android | ReactJS | HTML | JavaScript | ReactNative | C# | JAVA | PHP | NodeJS
