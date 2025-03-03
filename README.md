@@ -26,7 +26,7 @@ Mobile developer @ X-apps.
 - 📳 &nbsp; +55 (14) 98801-1184
 
 
-<h3>📱 Deployed Projects 🖥️</h3>
+<h3>📱 Publicly Deployed Projects 🖥️</h3>
 
 - Solutudo PlayStore: https://play.google.com/store/apps/details?id=br.com.solutudo.app&hl=pt_BR&gl=US<br>
 - Solutudo AppStore: https://apps.apple.com/br/app/solutudo/id534519120<br>
