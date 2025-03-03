@@ -8,7 +8,6 @@ Mobile developer @ X-apps.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; FullStack developer.
 - ✍️ &nbsp; Watching Anime and trying out latest programming trends as hobbies/side hustles.
-- ☕ &nbsp; A cup of coffee can change everything. 
 
 <h3>📈 Gitlab Contributions chart</h3>
 
