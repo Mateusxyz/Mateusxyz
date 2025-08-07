@@ -27,10 +27,10 @@ Mobile developer @ X-apps.
 
 
 <h3>📱 Publicly Deployed Projects 🖥️</h3>
-- Meu Paineiras Beta Playtore: https://play.google.com/store/apps/details?id=paineiras.com.br.alive
-- Meu Paineiras Beta AppStore: https://apps.apple.com/br/app/cpm-beta/id6747993118?l=en-GB
-- Meu Paineiras Playtore: https://play.google.com/store/apps/details?id=paineiras.com.br.meupaineiras&hl=pt_BR
-- Meu Paineiras AppStore: https://apps.apple.com/br/app/meu-paineiras/id1427977174
+- Meu Paineiras Beta Playtore: https://play.google.com/store/apps/details?id=paineiras.com.br.alive<br>
+- Meu Paineiras Beta AppStore: https://apps.apple.com/br/app/cpm-beta/id6747993118?l=en-GB<br>
+- Meu Paineiras Playtore: https://play.google.com/store/apps/details?id=paineiras.com.br.meupaineiras&hl=pt_BR<br>
+- Meu Paineiras AppStore: https://apps.apple.com/br/app/meu-paineiras/id1427977174<br>
 - Solutudo PlayStore: https://play.google.com/store/apps/details?id=br.com.solutudo.app&hl=pt_BR&gl=US<br>
 - Solutudo AppStore: https://apps.apple.com/br/app/solutudo/id534519120<br>
 - Jobs Radar: https://play.google.com/store/apps/details?id=com.jobradar&hl=pt_BR&gl=US<br>
