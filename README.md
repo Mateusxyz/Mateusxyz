@@ -11,7 +11,8 @@ Mobile developer @ X-apps.
 
 <h3>📈 Gitlab Contributions chart</h3>
 
-![image](https://github.com/user-attachments/assets/a7e23300-0de8-497b-b08e-7e1a1039cd69)
+![image](https://github.com/user-attachments/assets/aca6556f-a314-4647-8a14-2e60f291bcf8)
+
 
 
 <h3>🛠 Tech Stack</h3>
